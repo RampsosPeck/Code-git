@@ -5,6 +5,9 @@
 
 --1) Primero cambiar las variables de git config y name
 
+# git config --global user.name "RampsosPeck"
+# git config --global user.email "peralta.jorge.uatf@gmail.com"
+
 --2) Pusimos nombre a la rama master
 
 # git branch -m development
@@ -17,6 +20,8 @@
 
 # git add  notes.sql
 
---5)
+--5) Podemos v er el estado de los commits antes del push
+
+# git log
 
 --6)
