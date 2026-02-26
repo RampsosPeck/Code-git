@@ -35,5 +35,9 @@
 
 # git diff
 
+--8) Para cambiar de rama de version
+
+# git checkout 'serial-id-de-la-rama'
+# git reset --hard 'ultimos seriales'
 
 ----
