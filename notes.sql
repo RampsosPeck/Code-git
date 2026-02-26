@@ -40,4 +40,13 @@
 # git checkout 'serial-id-de-la-rama'
 # git reset --hard 'ultimos seriales'
 
-----
+--9) Crear una nueva rama, desde la rama principal.
+
+# git branch firstram --(firstram es nueva rama)
+--Para moverse a la nueva rama creada
+# git switch firstram
+
+--10) Para combinar los cambios entre dos ramas usas merge
+
+--Dede la rama firstram a la rama development
+# git merge development
