@@ -31,4 +31,9 @@
 # sudo git config --global alias.viewcommit "log --graph --decorate --all --oneline"
 # sudo git viewcommit
 
+--7) Para ver los diferentes cambios de una archivo
 
+# git diff
+
+
+----
