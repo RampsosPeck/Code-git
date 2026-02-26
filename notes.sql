@@ -24,4 +24,11 @@
 
 # git log
 
---6)
+--6) Pedemos ver los tipos de log y hacerlo un alias de view
+
+# git log --graph
+# git log --graph --decorate --all --oneline
+# sudo git config --global alias.viewcommit "log --graph --decorate --all --oneline"
+# sudo git viewcommit
+
+
