@@ -61,5 +61,7 @@
 
 # sudo git remote set-url origin https://RampsosPeck:token@github.com/RampsosPeck/Code-git.git
 
+--13) Para bajar las actualizaciones de la master a tu rama
 
+# git pull origin master
 ----*****fin
