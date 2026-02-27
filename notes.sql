@@ -48,13 +48,18 @@
 
 --10) Para combinar los cambios entre dos ramas usas merge
 
---Dede la rama firstram a la rama development
+--Dede la rama firstram a la rama development (esto es para que en la rama traiga las actualizaciones desde el master o main )
+--Para que el main tenga los cambios de la rama hay que ejecutar desde el main merge hacia la rama (para uque traiga lo que hizo en la rama)
 # git merge development
 
 --11) Eliminar una rama
 
 # git branch -d nombreRama
 
+--12) Si existe un proble con el envio a git hub, debe ser por el token en git hub
+--Hay que generar un token clasic en git hub y ejecutar los cambio en el siguientes enlace 
+
+# sudo git remote set-url origin https://RampsosPeck:token@github.com/RampsosPeck/Code-git.git
 
 
-
+----*****fin
