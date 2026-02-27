@@ -50,3 +50,11 @@
 
 --Dede la rama firstram a la rama development
 # git merge development
+
+--11) Eliminar una rama
+
+# git branch -d nombreRama
+
+
+
+
